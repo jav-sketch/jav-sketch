@@ -15,3 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I have always had a passion for technology. Being an avid and curious learner - I got my first computer back in 2006. It was a Dell Inspiron, which came with the Windows XP operating system. From that point forward, I developed a taste for computers and technology.
+
+What drove me to become a tech enthusiast? Being curious about how systems work, especially in the Information Technology field - helped in the realization that:
+I can build and develop computer systems and web applications from scratch.
+I can learn skills akin to programming and programming language concepts needed to develop software, etc.
+Hone my skills in relational database designs.
+Learn how to integrate payment gateways and deploy web applications to various hosting platforms(cloud, etc.).
+I can contribute to open source projects as well as create some of my projects.
+These are some of the reasons why I choose to pursue a career in Information Technology. 
