@@ -24,6 +24,6 @@ I am strengthening my software engineering foundations while building practical 
 ## Connect
 - [Explore my GitHub repositories](https://github.com/jav-sketch?tab=repositories)
 - [Visit Bytesize Interactive](https://bytesizeinteractive.com)
-
+- [Explore My LinkedIn Account](https://www.linkedin.com/in/javon-browne-8ba8821ba/)
 ---
 *Learning through practice. Building with purpose.*
