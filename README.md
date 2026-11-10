@@ -1,26 +1,29 @@
-### Hi there 👋
+# Javon Browne
+### Computer Science Student · IT Professional · Technology Educator
 
-<!--
-**jav-sketch/jav-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Based in Guyana, I bring together practical IT support, web development, and technical education. I am pursuing a BSc in Computer Science at the University of Guyana and work as an Education Technician at Essequibo Technical Institute.
 
-Here are some ideas to get you started:
+Through **Bytesize Interactive**, I focus on helping businesses make effective use of technology, from websites and networking to PC support and IT consultancy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+- **Web development:** Python, Django, HTML, CSS, JavaScript, and React.
+- **IT systems:** PC maintenance, troubleshooting, networking, and deployment workflows.
+- **Education:** Practical IT learning activities, competency-based assessment, and learner support.
+- **Developing interests:** Software engineering, databases, AI, and cloud infrastructure.
 
-I have always had a passion for technology. Being an avid and curious learner - I got my first computer back in 2006. It was a Dell Inspiron, which came with the Windows XP operating system. From that point forward, I developed a taste for computers and technology.
+## Selected repositories
+| Work | Focus |
+| --- | --- |
+| [ByteSize Interactive website](https://github.com/jav-sketch/bytesize_interactive_site) | Business website source for my IT services work. |
+| [React To-Do App](https://github.com/jav-sketch/React-Todo-App) | A learning project exploring React and front-end application development. |
+| [Introduction to Computing](https://github.com/jav-sketch/CSE1100_Intro_to_computing) | Computing coursework and programming practice. |
 
-What drove me to become a tech enthusiast? Being curious about how systems work, especially in the Information Technology field - helped in the realization that:
-I can build and develop computer systems and web applications from scratch.
-I can learn skills akin to programming and programming language concepts needed to develop software, etc.
-Hone my skills in relational database designs.
-Learn how to integrate payment gateways and deploy web applications to various hosting platforms(cloud, etc.).
-I can contribute to open source projects as well as create some of my projects.
-These are some of the reasons why I choose to pursue a career in Information Technology. 
+## Where I am heading
+I am strengthening my software engineering foundations while building practical solutions for businesses and education in Guyana. My goals include creating useful web applications, contributing to open source, and exploring responsible applications of AI.
+
+## Connect
+- [Explore my GitHub repositories](https://github.com/jav-sketch?tab=repositories)
+- [Visit Bytesize Interactive](https://bytesizeinteractive.com)
+
+---
+*Learning through practice. Building with purpose.*
